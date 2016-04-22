@@ -1,0 +1,7 @@
+@mixin border($radius) {
+  border-left	: blue ;
+border-left-color: #ff0000;
+border-left-style: solid;
+border-left-width: 100px;
+}
+.box { @include border(10px); }

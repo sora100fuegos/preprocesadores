@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,IACA;EACE,IAAI,EAAE,mBAAW;EACjB,KAAK,EALC,IAAI",
+"sources": ["ejemplo1.scss"],
+"names": [],
+"file": "ejemplo1.css"
+}
